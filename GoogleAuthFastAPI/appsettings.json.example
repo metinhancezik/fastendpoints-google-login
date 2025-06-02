@@ -1,0 +1,20 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "Authentication": {
+    "Google": {
+      "ClientId": "YOUR_GOOGLE_CLIENT_ID",
+      "ClientSecret": "YOUR_GOOGLE_CLIENT_SECRET"
+    },
+    "Jwt": {
+      "Key": "YOUR_JWT_SECRET_KEY",
+      "Issuer": "YOUR_ISSUER",
+      "Audience": "YOUR_AUDIENCE"
+    }
+  }
+} 
