@@ -118,5 +118,5 @@ FastEndpoints simplifies routing logic while being fully compatible with ASP.NET
 
 ## 👨‍💻 Author Notes
 
-- Repo: [`fastendpoints-google-login-demo`](https://github.com/metinhancezik/fastendpoints-google-login-demo)  
+- Repo: [`fastendpoints-google-login-demo`](https://github.com/metinhancezik/fastendpoints-google-login)  
 - Developed by [@metinhancezik](https://github.com/metinhancezik)
